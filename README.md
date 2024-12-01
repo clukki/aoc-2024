@@ -4,7 +4,7 @@ _My entry on the Advent of Code 2024! (and learning rust throughout the project)
 
 ## Usage
 
-> [!IMPORTANT]
+> [!WARNING]
 > THIS PROJECT DOES NOT PROVIDE A FUNCTIONAL PROGRAM OUT-OF-THE-BOX! YOU MUST MODIFY THE _main.rs_ FILE!
 > (the file currently has a "example" to run the day 1 part 2 program)
 
